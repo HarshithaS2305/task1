@@ -11,8 +11,10 @@ release_year
 rating
 duration               
 genre             
-description   
+description )  
+
 we performed 
+
 1.Ignore warnings – Prevents Python warnings from cluttering output
 2.Remove duplicates – Ensures no duplicate rows exist.
 3.Handle missing values
@@ -36,5 +38,4 @@ Consistent column names
 No duplicates
 No missing values in key columns
 Standardized text
-Numeric duration in minutes
 Correct data types
